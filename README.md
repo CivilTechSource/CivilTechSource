@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CivilTechSource
 - 👀 I’m interested in Civil Engineering, Coding and Modelling
-- 🌱 I’m currently learning how to use C#
-- 💞️ I’m looking to collaborate on small projects with anyone
+- 🌱 I’m currently learning how to use C# and python
+- 💞️ I’m looking to collaborate on small projects with anyone interested in Civil Engineering
 - 📫 How to reach me ferdijafar.engineering@gmail.com
 
 <!---
